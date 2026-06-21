@@ -1,1 +1,1 @@
-# SurveySBM_BritishElection-Study
+# SurveySBM_BritishElection Study
